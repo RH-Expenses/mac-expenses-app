@@ -8,3 +8,4 @@ deploy:
   file: ExpensifyEnterExpenses.app
   on:
     repo: RH-Expenses/mac-expenses-app
+    tags: true
