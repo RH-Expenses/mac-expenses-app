@@ -1,4 +1,5 @@
 language: objective-c
+os: osx
 script: osacompile -o ExpensifyEnterExpenses.app ExpensifyEnterExpenses.scpt
 deploy:
   provider: releases
