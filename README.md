@@ -18,7 +18,7 @@ Wanja
 
 ##How to Download
 
-The latest version is always available on our [releases page](../releases).
+The latest version is always available on our [releases page](https://github.com/RH-Expenses/mac-expenses-app/releases).
 
 Just download the `ExpensifyEnterExpenses.app` and copy it to your `Applications` folder.
 
